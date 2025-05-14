@@ -1,0 +1,43 @@
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.white-links .nav-link {
+    color: white;
+    margin: 10px;
+    font-size: 13.5px;
+}
+.btn-color{
+    background-color: white;
+    color: #053cc8;
+    width: 100px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 13.5px; 
+}
+.side-img{
+   float: right;
+   left: 25px;
+   margin-top: 10px;
+ 
+}
+.info h1{
+    font-size: 32px;
+    color: white;
+}
+.info p{
+    font-size: 17px;
+    color: white;
+}
+.btn-1{
+    color: #053cc8;
+    background-color: white;
+    border-radius: 6px;
+    font-size: 17px;
+}
+.btn-2{
+    color: white;
+    border-radius: 6px;
+    font-size: 17px;
+}
